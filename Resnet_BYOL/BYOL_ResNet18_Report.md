@@ -351,10 +351,10 @@ The notebook tracks three experiments against each other:
 | **Fine-tune strategy** | Head-only (10 ep) → full network unfreeze |
 | **Early stopping** | Patience = 20 on val macro F1 |
 | **Export** | `.pth` checkpoint + TorchScript `.pt` |
-| **Best Val F1** | _(fill in after training)_ |
-| **Test Accuracy** | _(fill in after training)_ |
-| **Test Macro F1** | _(fill in after training)_ |
-| **ROC AUC** | _(fill in after training)_ |
+| **Best Val F1** |0.4781 |
+| **Test Accuracy** | 63.16% |
+| **Test Macro F1** |  0.5394 |
+| **ROC AUC** | 0.4976 |
 
 ---
 
